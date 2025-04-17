@@ -1,0 +1,89 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "header": {
+      "type": "header",
+      "blocks": {
+        "mega_menu_VVJY8J": {
+          "type": "mega-menu",
+          "settings": {
+            "index_page_menu": true,
+            "main_menu_name": "Women",
+            "mega_menu": "women-main-menu"
+          }
+        },
+        "mega_menu_rBzBcP": {
+          "type": "mega-menu",
+          "settings": {
+            "index_page_menu": false,
+            "main_menu_name": "Men",
+            "mega_menu": "men-main-menu"
+          }
+        },
+        "mega_menu_wxJFXN": {
+          "type": "mega-menu",
+          "settings": {
+            "index_page_menu": false,
+            "main_menu_name": "Bridal",
+            "mega_menu": "bridal-main-menu-for-mobile"
+          }
+        },
+        "mega_menu_QppGaL": {
+          "type": "mega-menu",
+          "settings": {
+            "index_page_menu": false,
+            "main_menu_name": "kids",
+            "mega_menu": "kids-main-menu"
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_VVJY8J",
+        "mega_menu_rBzBcP",
+        "mega_menu_wxJFXN",
+        "mega_menu_QppGaL"
+      ],
+      "custom_css": [],
+      "settings": {
+        "logo_position": "middle-center",
+        "menu": "main-menu",
+        "second_menu_mobile": "header-second-menu-mobile",
+        "menu_type_desktop": "mega",
+        "sticky_header_type": "always",
+        "show_line_separator": true,
+        "color_scheme": "scheme-1",
+        "menu_color_scheme": "scheme-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "whishlist_url": "shopify://pages/wishlist",
+        "bottom_mobile_menu": "header-third-menu-mobile",
+        "bottom_mobile_button_text": "Find a KALKI Store",
+        "bottom_mobile_button_link": "shopify://pages/our-stores",
+        "bottom_mobile_text": "<p>Free Shipping within India*</p>",
+        "sale_text": "Sale",
+        "sale_link": "shopify://collections/sale",
+        "ready_to_ship_text": "Ready To Ship",
+        "ready_to_ship_link": "shopify://collections/ready-to-ship",
+        "login_massage": "SignIn / SignUp to avail the offers and coupon codes",
+        "after_login_massage": "Join and become part of our 5k+ virtual shopping circle!"
+      }
+    }
+  },
+  "order": [
+    "header",
+  ]
+}
